@@ -1,0 +1,32 @@
+# Archivos de entorno y configuración
+.env
+config.yaml
+*.ini
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.env/
+.venv/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de distribución
+dist/
+build/
+*.egg-info/
